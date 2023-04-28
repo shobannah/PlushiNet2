@@ -1,0 +1,25 @@
+img {
+    display: flex; 
+    margin: auto;
+    margin-top: 30px;
+    max-width:60% ;
+    max-height: 100%;
+  
+}
+
+.ribbon {
+    font-family: 'Mali', cursive;
+    font-size: x-large;
+    color: rgb(165, 68, 68);
+    background-color: rgb(198, 216, 241);
+    text-align: center;
+    border-style: dashed;
+    border-color: rgb(194, 118, 128);
+    border-radius: 25px;
+    padding: 20px;
+    font-weight: 800;
+    max-width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Gloria+Hallelujah&family=Hachi+Maru+Pop&family=Mali:wght@200&display=swap');
+
+header {
+    background-color: rgb(206, 167, 155);
+    justify-content: center;
+  }
+  
+.navLogo {
+    font-family: 'Hachi Maru Pop', cursive;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: x-large;
+    margin: 10px;
+    letter-spacing: 3px;
+}
+
+li {
+    font-family: 'Mali', cursive;
+    padding: 15px;
+    background-color: rgb(187, 137, 137);
+    border-radius: 25px;
+    list-style: none;
+}
+
+.buttons {
+    justify-content: center;
+}

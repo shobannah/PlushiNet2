@@ -1,0 +1,17 @@
+.productTitle {
+    text-align: center;
+    font-family: 'Hachi Maru Pop', cursive;
+    margin-top: 60px;
+    font-weight: 900;
+    background-color: rgb(200, 240, 206);
+    border-radius: 25px;
+    max-width: 75%;
+    padding: 25px;
+    margin: auto;
+    color: rgb(37, 114, 7);
+}
+
+.productImages {
+    font-family: 'Mali', cursive;
+    font-weight: 900;
+}
